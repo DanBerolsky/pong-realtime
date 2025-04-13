@@ -1,0 +1,21 @@
+# node_modules
+node_modules/
+
+# logs
+logs/
+*.log
+
+# dotenv
+.env
+
+# sistema operativo
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+
+# build (si hacés uno en el futuro)
+dist/
+build/
